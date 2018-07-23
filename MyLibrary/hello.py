@@ -345,8 +345,6 @@ class imap_test(object):
     server.logout()
  '''
 
-
-
 host = 'super-test.com'
 username = 'alpha@super-test.com'
 pw = 'a'
