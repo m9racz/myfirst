@@ -1,0 +1,13 @@
+{
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        "./MyLibrary",
+        "-p",
+        "test_*.py"
+    ],
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.unittestEnabled": true,
+    "python.pythonPath": "C:\\Python36\\python.exe"
+}
